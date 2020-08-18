@@ -8,4 +8,3 @@
 #include <path/to/weirDsrc/include.h>
 // Not an include directive, this is fine
 int Dsrc = 3;
-$Id
