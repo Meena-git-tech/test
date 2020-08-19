@@ -1,6 +1,1 @@
-//testing eol
-if (/* condition */)
-{
-    /* code */
-}
-
+//testing eolif (/* condition */){    /* code */}
