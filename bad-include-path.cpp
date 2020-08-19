@@ -7,4 +7,4 @@
 // dir name contains Isrc or Dsrc but has other stuff before or after
 #include <path/to/weirDsrc/include.h>
 // Not an include directive, this is fine
-int Dsrc = 3;$Id:  
+int Dsrc = 3;$Id:   
