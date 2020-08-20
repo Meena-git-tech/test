@@ -1,0 +1,2 @@
+line with Unix endings
+line with DOS endings
