@@ -1,5 +1,7 @@
 bad-include-path.C
 bad-include-path.C
+bad-include-path.h
+bad-include-path.h
 quotes-in-include.cpp
 quotes-in-include.cpp
 subfolder/bad-include-path.C
