@@ -6,4 +6,3 @@
 
 // No quotes, this is fine
 #include <path/to/yet/another/include.h>
-

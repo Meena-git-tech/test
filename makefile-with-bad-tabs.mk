@@ -5,4 +5,5 @@ target: input
 # This is not fine
 test := multi \
 	line
+	
 
