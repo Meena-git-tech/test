@@ -5,5 +5,4 @@
 #include "path/to/another/include.h"
 
 // No quotes, this is fine
-#include <path/to/yot/another/include.h>
-#include <path/to/yot/another/include.h>
+#include <path/to/yet/another/include.h>
